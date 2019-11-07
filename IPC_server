@@ -38,3 +38,9 @@ int main()
 	close(writefd);
 	unlink(FIFO2);
 	}
+
+output:-
+connection established
+client has request fire jam 
+	
+	
