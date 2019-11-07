@@ -31,3 +31,9 @@ int main()
 	unlink(FIFO2);
 	return 0;
 	}
+output:-
+trying to connect to server
+connection established
+enter the filename to request from server:jam
+waiting for sever to reply
+abc
