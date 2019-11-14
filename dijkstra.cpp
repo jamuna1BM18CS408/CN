@@ -76,3 +76,25 @@ int main()
 	co=dijkstra(cost,source,target);
 	printf("\nshortest path:%d",co);
 }
+output:
+enter the weight of the path between node A and B:7
+enter the weight of the path between node A and C:5
+enter the weight of the path between node A and D:3
+enter the weight of the path between node A and E:99
+
+enter the weight of the path between node B and C:99
+enter the weight of the path between node B and D:3
+enter the weight of the path between node B and E:4
+
+enter the weight of the path between node C and D:4
+enter the weight of the path between node C and E:7
+
+enter the weight of the path between node D and E:8
+
+
+
+enter the source1
+
+enter the target5
+A-->D-->B-->E
+shortest path:10
